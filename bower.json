@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-nl",
+  "description": "The most comprehensive collection of stopwords for the dutch language.",
+  "keywords": [
+    "dutch",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-nl",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-nl.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}

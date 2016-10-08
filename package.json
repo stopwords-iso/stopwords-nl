@@ -1,0 +1,26 @@
+{
+  "name": "stopwords-nl",
+  "version": "0.1.0",
+  "author": "Gene Diaz <genediazjr@gmail.com> (http://genediazjr.com)",
+  "description": "The most comprehensive collection of stopwords for the dutch language.",
+  "keywords": [
+    "dutch",
+    "stopwords",
+    "stop words"
+  ],
+  "license": "MIT",
+  "repository": "git://github.com/stopwords-iso/stopwords-nl",
+  "bugs": "https://github.com/stopwords-iso/stopwords-nl/issues",
+  "main": "stopwords-nl.json",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "build": "stopwords-collator -s raw -o stopwords-nl",
+    "test": "npm run build && jsonlint stopwords-nl.json -q"
+  },
+  "devDependencies": {
+    "stopwords-collator": "*",
+    "jsonlint": "1.6.x"
+  }
+}
