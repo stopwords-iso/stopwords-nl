@@ -7,9 +7,7 @@ alle
 alleen
 alles
 als
-altijd
 ander
-andere
 anders
 beetje
 behalve
@@ -36,7 +34,6 @@ dat
 de
 deden
 deed
-der
 derde
 derhalve
 dertig
@@ -44,14 +41,12 @@ deze
 dhr
 die
 dit
-doch
 doe
 doen
 doet
 door
 drie
 duizend
-dus
 echter
 een
 eens
@@ -69,7 +64,6 @@ ergens
 etc
 etcetera
 even
-ge
 geen
 genoeg
 geweest
@@ -193,7 +187,6 @@ paar
 per
 recent
 redelijk
-reeds
 samen
 sinds
 steeds
@@ -207,7 +200,6 @@ tijdens
 tja
 toch
 toe
-toen
 tot
 totdat
 tussen
@@ -239,7 +231,6 @@ waar
 waarom
 waarschijnlijk
 wanneer
-want
 waren
 was
 wat
@@ -253,7 +244,6 @@ welke
 werd
 werden
 werder
-wezen
 whatever
 wie
 wij
@@ -279,7 +269,6 @@ zijzelf
 zo
 zoals
 zodat
-zonder
 zou
 zouden
 zulk
